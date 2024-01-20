@@ -1,4 +1,4 @@
-[### [🎈 Welcome!](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FEFFDF,100:CBF078&text=Suein&textBg=false&animation=fadeIn&fontColor=424242&fontSize=90&desc='s%20github%20world&descSize=25&descAlign=65&descAlignY=66&fontAlign=42&reversal=false&section=header&fontAlignY=50)](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FEFFDF,100:CBF078&text=Suein&textBg=false&animation=fadeIn&fontColor=424242&fontSize=90&desc='s%20github%20world&descSize=25&descAlign=65&descAlignY=66&fontAlign=42&reversal=false&section=header&fontAlignY=50)
+https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FEFFDF,100:CBF078&text=Suein&textBg=false&animation=fadeIn&fontColor=424242&fontSize=90&desc='s%20github%20world&descSize=20&descAlign=63&descAlignY=65&fontAlign=42&reversal=false&section=header&fontAlignY=49
 
 <!--
 **ddu2ni/ddu2ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
