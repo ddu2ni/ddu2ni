@@ -2,7 +2,6 @@
 
 ## ✏️ Skill
 
-<br/>
 
 #### Language
 <span>
