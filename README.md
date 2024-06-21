@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </span>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddu2ni&layout=compact)
+
 <!--
 **ddu2ni/ddu2ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
