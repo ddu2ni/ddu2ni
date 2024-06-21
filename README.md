@@ -34,6 +34,7 @@
 </span>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddu2ni&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddu2ni&layout=donut)](https://github.com/ddu2ni/github-readme-stats)
 
 <!--
 **ddu2ni/ddu2ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
